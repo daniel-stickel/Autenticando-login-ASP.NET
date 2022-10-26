@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "0GVjqBBEXU99c7fD8Loh9bzQsOWEi9IxAEbBCnC0v1Hrxlr81NlpNKpyJX2MlgnyQXHLjWjM08Tq8RWkWUwVIQ==",
+  "dgSpecHash": "qROa5hDGQJfrEnTXTRjjNzwDJJMLCn7ov3UHxO3UVW/n23iwJeOzBsvhwXKmGdMaOLYYNQlQXmqdWxJ8athLQQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\danie\\Desktop\\Programação\\ASP.NET\\AulaInicial\\BAL\\BAL.csproj",
+  "projectFilePath": "C:\\Users\\danie\\Desktop\\Programação\\ASP.NET\\AulaInicial\\Autenticando-login-ASP.NET\\BAL\\BAL.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\danie\\.nuget\\packages\\microsoft.netcore.platforms\\3.1.0\\microsoft.netcore.platforms.3.1.0.nupkg.sha512",
     "C:\\Users\\danie\\.nuget\\packages\\microsoft.win32.registry\\4.7.0\\microsoft.win32.registry.4.7.0.nupkg.sha512",

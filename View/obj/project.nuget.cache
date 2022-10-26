@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "16QKn25PUzt7zMwhrPJidlLD4HsGyJYsl/WK4BPr5ExDl9YUkGXQQoSSRZOjs+k/OLDXqoLHvTAa4SuFgwFOIg==",
+  "dgSpecHash": "gKqosaSivkO8vNxtwRkT5FP7nltOLUo2mAC/H795E2ZVaEZmbGeL1YoVqYZOR2kbI1SsPZUhOtgseACmcVyqGQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\danie\\Desktop\\Programação\\ASP.NET\\AulaInicial\\View\\View.csproj",
+  "projectFilePath": "C:\\Users\\danie\\Desktop\\Programação\\ASP.NET\\AulaInicial\\Autenticando-login-ASP.NET\\View\\View.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\danie\\.nuget\\packages\\humanizer.core\\2.2.0\\humanizer.core.2.2.0.nupkg.sha512",
     "C:\\Users\\danie\\.nuget\\packages\\messagepack\\2.1.152\\messagepack.2.1.152.nupkg.sha512",

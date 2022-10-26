@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "wOwKJncIlHqL0NP6Fa1r4BHZlGs+EEx3oxY8aXhHl/MNl7W2Brp1HtjIk67lXtx7CgjX00EkWHaBPWjUvpnwTw==",
+  "dgSpecHash": "FYOmByf7C+/Ez4xoIRWvgSvMRHLPqb3UKBV5xsX6AdvlFIp63e8Mdqd6uYqbjm/NdwcEsjQagUDNivCnW2MuWg==",
   "success": true,
-  "projectFilePath": "C:\\Users\\danie\\Desktop\\Programação\\ASP.NET\\AulaInicial\\DAL\\DAL.csproj",
+  "projectFilePath": "C:\\Users\\danie\\Desktop\\Programação\\ASP.NET\\AulaInicial\\Autenticando-login-ASP.NET\\DAL\\DAL.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\danie\\.nuget\\packages\\microsoft.netcore.platforms\\3.1.0\\microsoft.netcore.platforms.3.1.0.nupkg.sha512",
     "C:\\Users\\danie\\.nuget\\packages\\microsoft.win32.registry\\4.7.0\\microsoft.win32.registry.4.7.0.nupkg.sha512",
