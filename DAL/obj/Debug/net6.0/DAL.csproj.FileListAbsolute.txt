@@ -1,0 +1,45 @@
+C:\Users\victor.schmitt\Desktop\AulaInicial\DAL\bin\Debug\net6.0\DAL.deps.json
+C:\Users\victor.schmitt\Desktop\AulaInicial\DAL\bin\Debug\net6.0\DAL.dll
+C:\Users\victor.schmitt\Desktop\AulaInicial\DAL\bin\Debug\net6.0\DAL.pdb
+C:\Users\victor.schmitt\Desktop\AulaInicial\DAL\bin\Debug\net6.0\Model.dll
+C:\Users\victor.schmitt\Desktop\AulaInicial\DAL\bin\Debug\net6.0\Model.pdb
+C:\Users\victor.schmitt\Desktop\AulaInicial\DAL\obj\Debug\net6.0\DAL.csproj.AssemblyReference.cache
+C:\Users\victor.schmitt\Desktop\AulaInicial\DAL\obj\Debug\net6.0\DAL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\victor.schmitt\Desktop\AulaInicial\DAL\obj\Debug\net6.0\DAL.AssemblyInfoInputs.cache
+C:\Users\victor.schmitt\Desktop\AulaInicial\DAL\obj\Debug\net6.0\DAL.AssemblyInfo.cs
+C:\Users\victor.schmitt\Desktop\AulaInicial\DAL\obj\Debug\net6.0\DAL.csproj.CoreCompileInputs.cache
+C:\Users\victor.schmitt\Desktop\AulaInicial\DAL\obj\Debug\net6.0\DAL.csproj.CopyComplete
+C:\Users\victor.schmitt\Desktop\AulaInicial\DAL\obj\Debug\net6.0\DAL.dll
+C:\Users\victor.schmitt\Desktop\AulaInicial\DAL\obj\Debug\net6.0\refint\DAL.dll
+C:\Users\victor.schmitt\Desktop\AulaInicial\DAL\obj\Debug\net6.0\DAL.pdb
+C:\Users\victor.schmitt\Desktop\AulaInicial\DAL\obj\Debug\net6.0\ref\DAL.dll
+C:\Users\danie\Desktop\aula inicial arquivo professor\AulaInicial\DAL\bin\Debug\net6.0\DAL.deps.json
+C:\Users\danie\Desktop\aula inicial arquivo professor\AulaInicial\DAL\bin\Debug\net6.0\DAL.dll
+C:\Users\danie\Desktop\aula inicial arquivo professor\AulaInicial\DAL\bin\Debug\net6.0\DAL.pdb
+C:\Users\danie\Desktop\aula inicial arquivo professor\AulaInicial\DAL\bin\Debug\net6.0\Model.dll
+C:\Users\danie\Desktop\aula inicial arquivo professor\AulaInicial\DAL\bin\Debug\net6.0\Model.pdb
+C:\Users\danie\Desktop\aula inicial arquivo professor\AulaInicial\DAL\obj\Debug\net6.0\DAL.csproj.AssemblyReference.cache
+C:\Users\danie\Desktop\aula inicial arquivo professor\AulaInicial\DAL\obj\Debug\net6.0\DAL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\danie\Desktop\aula inicial arquivo professor\AulaInicial\DAL\obj\Debug\net6.0\DAL.AssemblyInfoInputs.cache
+C:\Users\danie\Desktop\aula inicial arquivo professor\AulaInicial\DAL\obj\Debug\net6.0\DAL.AssemblyInfo.cs
+C:\Users\danie\Desktop\aula inicial arquivo professor\AulaInicial\DAL\obj\Debug\net6.0\DAL.csproj.CoreCompileInputs.cache
+C:\Users\danie\Desktop\aula inicial arquivo professor\AulaInicial\DAL\obj\Debug\net6.0\DAL.csproj.CopyComplete
+C:\Users\danie\Desktop\aula inicial arquivo professor\AulaInicial\DAL\obj\Debug\net6.0\DAL.dll
+C:\Users\danie\Desktop\aula inicial arquivo professor\AulaInicial\DAL\obj\Debug\net6.0\refint\DAL.dll
+C:\Users\danie\Desktop\aula inicial arquivo professor\AulaInicial\DAL\obj\Debug\net6.0\DAL.pdb
+C:\Users\danie\Desktop\aula inicial arquivo professor\AulaInicial\DAL\obj\Debug\net6.0\ref\DAL.dll
+C:\Users\danie\Desktop\Programação\ASP.NET\AulaInicial\DAL\bin\Debug\net6.0\DAL.deps.json
+C:\Users\danie\Desktop\Programação\ASP.NET\AulaInicial\DAL\bin\Debug\net6.0\DAL.dll
+C:\Users\danie\Desktop\Programação\ASP.NET\AulaInicial\DAL\bin\Debug\net6.0\DAL.pdb
+C:\Users\danie\Desktop\Programação\ASP.NET\AulaInicial\DAL\bin\Debug\net6.0\Model.dll
+C:\Users\danie\Desktop\Programação\ASP.NET\AulaInicial\DAL\bin\Debug\net6.0\Model.pdb
+C:\Users\danie\Desktop\Programação\ASP.NET\AulaInicial\DAL\obj\Debug\net6.0\DAL.csproj.AssemblyReference.cache
+C:\Users\danie\Desktop\Programação\ASP.NET\AulaInicial\DAL\obj\Debug\net6.0\DAL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\danie\Desktop\Programação\ASP.NET\AulaInicial\DAL\obj\Debug\net6.0\DAL.AssemblyInfoInputs.cache
+C:\Users\danie\Desktop\Programação\ASP.NET\AulaInicial\DAL\obj\Debug\net6.0\DAL.AssemblyInfo.cs
+C:\Users\danie\Desktop\Programação\ASP.NET\AulaInicial\DAL\obj\Debug\net6.0\DAL.csproj.CoreCompileInputs.cache
+C:\Users\danie\Desktop\Programação\ASP.NET\AulaInicial\DAL\obj\Debug\net6.0\DAL.csproj.CopyComplete
+C:\Users\danie\Desktop\Programação\ASP.NET\AulaInicial\DAL\obj\Debug\net6.0\DAL.dll
+C:\Users\danie\Desktop\Programação\ASP.NET\AulaInicial\DAL\obj\Debug\net6.0\refint\DAL.dll
+C:\Users\danie\Desktop\Programação\ASP.NET\AulaInicial\DAL\obj\Debug\net6.0\DAL.pdb
+C:\Users\danie\Desktop\Programação\ASP.NET\AulaInicial\DAL\obj\Debug\net6.0\ref\DAL.dll

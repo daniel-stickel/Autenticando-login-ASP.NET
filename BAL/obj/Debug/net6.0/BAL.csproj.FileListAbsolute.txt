@@ -1,0 +1,51 @@
+C:\Users\victor.schmitt\Desktop\AulaInicial\BAL\bin\Debug\net6.0\BAL.deps.json
+C:\Users\victor.schmitt\Desktop\AulaInicial\BAL\bin\Debug\net6.0\BAL.dll
+C:\Users\victor.schmitt\Desktop\AulaInicial\BAL\bin\Debug\net6.0\BAL.pdb
+C:\Users\victor.schmitt\Desktop\AulaInicial\BAL\bin\Debug\net6.0\DAL.dll
+C:\Users\victor.schmitt\Desktop\AulaInicial\BAL\bin\Debug\net6.0\Model.dll
+C:\Users\victor.schmitt\Desktop\AulaInicial\BAL\bin\Debug\net6.0\DAL.pdb
+C:\Users\victor.schmitt\Desktop\AulaInicial\BAL\bin\Debug\net6.0\Model.pdb
+C:\Users\victor.schmitt\Desktop\AulaInicial\BAL\obj\Debug\net6.0\BAL.csproj.AssemblyReference.cache
+C:\Users\victor.schmitt\Desktop\AulaInicial\BAL\obj\Debug\net6.0\BAL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\victor.schmitt\Desktop\AulaInicial\BAL\obj\Debug\net6.0\BAL.AssemblyInfoInputs.cache
+C:\Users\victor.schmitt\Desktop\AulaInicial\BAL\obj\Debug\net6.0\BAL.AssemblyInfo.cs
+C:\Users\victor.schmitt\Desktop\AulaInicial\BAL\obj\Debug\net6.0\BAL.csproj.CoreCompileInputs.cache
+C:\Users\victor.schmitt\Desktop\AulaInicial\BAL\obj\Debug\net6.0\BAL.csproj.CopyComplete
+C:\Users\victor.schmitt\Desktop\AulaInicial\BAL\obj\Debug\net6.0\BAL.dll
+C:\Users\victor.schmitt\Desktop\AulaInicial\BAL\obj\Debug\net6.0\refint\BAL.dll
+C:\Users\victor.schmitt\Desktop\AulaInicial\BAL\obj\Debug\net6.0\BAL.pdb
+C:\Users\victor.schmitt\Desktop\AulaInicial\BAL\obj\Debug\net6.0\ref\BAL.dll
+C:\Users\danie\Desktop\aula inicial arquivo professor\AulaInicial\BAL\bin\Debug\net6.0\BAL.deps.json
+C:\Users\danie\Desktop\aula inicial arquivo professor\AulaInicial\BAL\bin\Debug\net6.0\BAL.dll
+C:\Users\danie\Desktop\aula inicial arquivo professor\AulaInicial\BAL\bin\Debug\net6.0\BAL.pdb
+C:\Users\danie\Desktop\aula inicial arquivo professor\AulaInicial\BAL\bin\Debug\net6.0\DAL.dll
+C:\Users\danie\Desktop\aula inicial arquivo professor\AulaInicial\BAL\bin\Debug\net6.0\Model.dll
+C:\Users\danie\Desktop\aula inicial arquivo professor\AulaInicial\BAL\bin\Debug\net6.0\DAL.pdb
+C:\Users\danie\Desktop\aula inicial arquivo professor\AulaInicial\BAL\bin\Debug\net6.0\Model.pdb
+C:\Users\danie\Desktop\aula inicial arquivo professor\AulaInicial\BAL\obj\Debug\net6.0\BAL.csproj.AssemblyReference.cache
+C:\Users\danie\Desktop\aula inicial arquivo professor\AulaInicial\BAL\obj\Debug\net6.0\BAL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\danie\Desktop\aula inicial arquivo professor\AulaInicial\BAL\obj\Debug\net6.0\BAL.AssemblyInfoInputs.cache
+C:\Users\danie\Desktop\aula inicial arquivo professor\AulaInicial\BAL\obj\Debug\net6.0\BAL.AssemblyInfo.cs
+C:\Users\danie\Desktop\aula inicial arquivo professor\AulaInicial\BAL\obj\Debug\net6.0\BAL.csproj.CoreCompileInputs.cache
+C:\Users\danie\Desktop\aula inicial arquivo professor\AulaInicial\BAL\obj\Debug\net6.0\BAL.csproj.CopyComplete
+C:\Users\danie\Desktop\aula inicial arquivo professor\AulaInicial\BAL\obj\Debug\net6.0\BAL.dll
+C:\Users\danie\Desktop\aula inicial arquivo professor\AulaInicial\BAL\obj\Debug\net6.0\refint\BAL.dll
+C:\Users\danie\Desktop\aula inicial arquivo professor\AulaInicial\BAL\obj\Debug\net6.0\BAL.pdb
+C:\Users\danie\Desktop\aula inicial arquivo professor\AulaInicial\BAL\obj\Debug\net6.0\ref\BAL.dll
+C:\Users\danie\Desktop\Programação\ASP.NET\AulaInicial\BAL\bin\Debug\net6.0\BAL.deps.json
+C:\Users\danie\Desktop\Programação\ASP.NET\AulaInicial\BAL\bin\Debug\net6.0\BAL.dll
+C:\Users\danie\Desktop\Programação\ASP.NET\AulaInicial\BAL\bin\Debug\net6.0\BAL.pdb
+C:\Users\danie\Desktop\Programação\ASP.NET\AulaInicial\BAL\bin\Debug\net6.0\DAL.dll
+C:\Users\danie\Desktop\Programação\ASP.NET\AulaInicial\BAL\bin\Debug\net6.0\Model.dll
+C:\Users\danie\Desktop\Programação\ASP.NET\AulaInicial\BAL\bin\Debug\net6.0\DAL.pdb
+C:\Users\danie\Desktop\Programação\ASP.NET\AulaInicial\BAL\bin\Debug\net6.0\Model.pdb
+C:\Users\danie\Desktop\Programação\ASP.NET\AulaInicial\BAL\obj\Debug\net6.0\BAL.csproj.AssemblyReference.cache
+C:\Users\danie\Desktop\Programação\ASP.NET\AulaInicial\BAL\obj\Debug\net6.0\BAL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\danie\Desktop\Programação\ASP.NET\AulaInicial\BAL\obj\Debug\net6.0\BAL.AssemblyInfoInputs.cache
+C:\Users\danie\Desktop\Programação\ASP.NET\AulaInicial\BAL\obj\Debug\net6.0\BAL.AssemblyInfo.cs
+C:\Users\danie\Desktop\Programação\ASP.NET\AulaInicial\BAL\obj\Debug\net6.0\BAL.csproj.CoreCompileInputs.cache
+C:\Users\danie\Desktop\Programação\ASP.NET\AulaInicial\BAL\obj\Debug\net6.0\BAL.csproj.CopyComplete
+C:\Users\danie\Desktop\Programação\ASP.NET\AulaInicial\BAL\obj\Debug\net6.0\BAL.dll
+C:\Users\danie\Desktop\Programação\ASP.NET\AulaInicial\BAL\obj\Debug\net6.0\refint\BAL.dll
+C:\Users\danie\Desktop\Programação\ASP.NET\AulaInicial\BAL\obj\Debug\net6.0\BAL.pdb
+C:\Users\danie\Desktop\Programação\ASP.NET\AulaInicial\BAL\obj\Debug\net6.0\ref\BAL.dll
