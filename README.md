@@ -13,7 +13,9 @@ Cadastro e login em ASP.NET usando banco de dados MSQL
 \Autenticando-login-ASP.NET\View\View.sln
 ```
 
- Este Projeto primeiramente foi feito em aula, mas modifiquei alguns trechos dele.  
+ Este Projeto primeiramente foi feito em aula, mas modifiquei alguns trechos dele. 
+
+ É um projeto usando MVC, BAL e DAL como camadas
 
 
 
